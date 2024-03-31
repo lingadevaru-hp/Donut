@@ -1,4 +1,6 @@
-﻿int main() {
+#include<stdio.h>
+#include<conio.h>
+int main() {
     float A = 0, B = 0;
     float i, j;
     int k;
